@@ -1,3 +1,6 @@
 {
-  "extends": "@viniciusmendite/eslint-config/react"
+  "extends": "@viniciusmendite/eslint-config/react",
+  "rules": {
+    "no-unused-vars": "off"
+  }
 }
